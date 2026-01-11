@@ -1,0 +1,53 @@
+html {
+     font-size: 20px;
+     background-color: black;
+     color:wheat;
+}
+h1 {
+     color:salmon;
+
+}
+h2 {
+     color:cornflowerblue;
+}
+p1 {
+     color:cornflowerblue;
+}
+p2 {
+     color:aquamarine;
+}
+p3 {
+     color:blueviolet;
+}
+p4 {
+     color:coral;
+}
+p5 {
+     color:mediumpurple;
+}
+p6 {
+     color:darkcyan;
+}
+p7 {
+     color:darkturquoise;
+}
+
+a {
+     color:color-mix(in srgb-linear, color percentage, color percentage)
+}
+img {
+     color:cadetblue;
+     align-items:flex-start;
+}
+p0 {
+     color:darkcyan;
+}
+p00 {
+     color:skyblue;
+}
+&hearts {
+     color:red;
+}
+mark {
+     color:blue;
+}
