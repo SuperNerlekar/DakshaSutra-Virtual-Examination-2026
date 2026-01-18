@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>Thanks</title>
+    </head>
+    <body>
+        <h1 id="msg"></h1>
+ 
+<script>
+const params = new URLSearchParams(window.location.search);
+const name = params.get("FirstName");
+document.getElementById("msg").innerText = "Thanks " + FirstName;
+</script>
+    </body>
+</html>
